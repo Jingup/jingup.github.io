@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a3 as e}from"./chunks/framework.asm4Y-uW.js";const g=JSON.parse('{"title":"免费https证书","description":"","frontmatter":{},"headers":[],"relativePath":"ssl.md","filePath":"ssl.md"}'),l={name:"ssl.md"},h=e("",22),n=[h];function t(p,k,r,d,c,F){return a(),i("div",null,n)}const y=s(l,[["render",t]]);export{g as __pageData,y as default};

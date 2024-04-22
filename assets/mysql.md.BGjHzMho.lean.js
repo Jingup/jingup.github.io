@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as i,a3 as e}from"./chunks/framework.asm4Y-uW.js";const g=JSON.parse('{"title":"MySQL基础","description":"","frontmatter":{},"headers":[],"relativePath":"mysql.md","filePath":"mysql.md"}'),l={name:"mysql.md"},t=e("",27),h=[t];function n(p,k,r,d,o,c){return i(),a("div",null,h)}const y=s(l,[["render",n]]);export{g as __pageData,y as default};
