@@ -1,0 +1,1 @@
+import{_ as a,c as s,o as e,a3 as i}from"./chunks/framework.asm4Y-uW.js";const k=JSON.parse('{"title":"MAC上卸载软件","description":"","frontmatter":{},"headers":[],"relativePath":"mac.md","filePath":"mac.md"}'),t={name:"mac.md"},l=i("",5),n=[l];function c(o,r,h,p,d,_){return e(),s("div",null,n)}const u=a(t,[["render",c]]);export{k as __pageData,u as default};
