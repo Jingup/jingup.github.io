@@ -1,1 +1,0 @@
-import{_ as a,c as s,o as i,a3 as e}from"./chunks/framework.asm4Y-uW.js";const y=JSON.parse('{"title":"已有PHP项目搭建","description":"","frontmatter":{},"headers":[],"relativePath":"pomelo.md","filePath":"pomelo.md"}'),t={name:"pomelo.md"},h=e("",20),l=[h];function n(p,r,d,k,o,c){return i(),s("div",null,l)}const g=a(t,[["render",n]]);export{y as __pageData,g as default};
