@@ -1,0 +1,1 @@
+import{_ as s,c as e,o as a,a3 as i}from"./chunks/framework.asm4Y-uW.js";const g=JSON.parse('{"title":"squoosh","description":"","frontmatter":{},"headers":[],"relativePath":"squoosh.md","filePath":"squoosh.md"}'),t={name:"squoosh.md"},o=i("",5),l=[o];function h(n,p,r,d,c,u){return a(),e("div",null,l)}const b=s(t,[["render",h]]);export{g as __pageData,b as default};

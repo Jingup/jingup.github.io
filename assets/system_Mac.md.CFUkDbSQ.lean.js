@@ -1,1 +1,0 @@
-import{_ as a,c as s,o as e,a3 as t}from"./chunks/framework.asm4Y-uW.js";const m=JSON.parse('{"title":"MAC","description":"","frontmatter":{},"headers":[],"relativePath":"system/Mac.md","filePath":"system/Mac.md"}'),i={name:"system/Mac.md"},l=t("",6),n=[l];function c(o,r,h,p,d,_){return e(),s("div",null,n)}const u=a(i,[["render",c]]);export{m as __pageData,u as default};
