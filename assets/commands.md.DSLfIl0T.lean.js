@@ -1,0 +1,1 @@
+import{_ as s,c as i,o as a,a3 as h}from"./chunks/framework.asm4Y-uW.js";const o=JSON.parse('{"title":"Some Commands","description":"","frontmatter":{},"headers":[],"relativePath":"commands.md","filePath":"commands.md"}'),n={name:"commands.md"},t=h("",19),k=[t];function l(p,e,r,F,d,g){return a(),i("div",null,k)}const C=s(n,[["render",l]]);export{o as __pageData,C as default};
