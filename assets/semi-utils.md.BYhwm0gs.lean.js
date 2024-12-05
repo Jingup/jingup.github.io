@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as s,a2 as i}from"./chunks/framework.BJ4bFU3Q.js";const h=JSON.parse('{"title":"semi-utils","description":"","frontmatter":{},"headers":[],"relativePath":"semi-utils.md","filePath":"semi-utils.md"}'),a={name:"semi-utils.md"},l=i("",2),o=[l];function r(c,_,n,m,u,d){return s(),t("div",null,o)}const f=e(a,[["render",r]]);export{h as __pageData,f as default};

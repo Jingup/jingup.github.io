@@ -1,0 +1,1 @@
+import{_ as a,c as s,o as e,a2 as i}from"./chunks/framework.BJ4bFU3Q.js";const F=JSON.parse('{"title":"Arch","description":"","frontmatter":{},"headers":[],"relativePath":"system/Arch.md","filePath":"system/Arch.md"}'),t={name:"system/Arch.md"},d=i("",33),n=[d];function h(l,r,o,c,p,k){return e(),s("div",null,n)}const g=a(t,[["render",h]]);export{F as __pageData,g as default};

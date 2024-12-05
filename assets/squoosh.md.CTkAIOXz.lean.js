@@ -1,0 +1,1 @@
+import{_ as s,c as e,o as a,a2 as i}from"./chunks/framework.BJ4bFU3Q.js";const g=JSON.parse('{"title":"squoosh","description":"","frontmatter":{},"headers":[],"relativePath":"squoosh.md","filePath":"squoosh.md"}'),t={name:"squoosh.md"},o=i("",5),l=[o];function n(h,p,r,d,c,u){return a(),e("div",null,l)}const b=s(t,[["render",n]]);export{g as __pageData,b as default};
