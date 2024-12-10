@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,a3 as o}from"./chunks/framework.BM2i9-bh.js";const p=JSON.parse('{"title":"Linux子系统WSL","description":"","frontmatter":{},"headers":[],"relativePath":"system/WSL.md","filePath":"system/WSL.md"}'),l={name:"system/WSL.md"},i=o("",4),s=[i];function r(c,n,d,u,_,b){return a(),t("div",null,s)}const h=e(l,[["render",r]]);export{p as __pageData,h as default};
