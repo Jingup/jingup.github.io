@@ -1,0 +1,1 @@
+import{_ as e,c as a,o as t,a3 as r}from"./chunks/framework.BM2i9-bh.js";const m=JSON.parse('{"title":"PHP","description":"","frontmatter":{},"headers":[],"relativePath":"service/PHP.md","filePath":"service/PHP.md"}'),o={name:"service/PHP.md"},s=r("",4),n=[s];function i(c,_,h,l,p,d){return t(),a("div",null,n)}const u=e(o,[["render",i]]);export{m as __pageData,u as default};
